@@ -1,0 +1,5 @@
+my_string=input('Enter random string please: ')
+print('String in lowercase:',my_string.lower())
+print('String in uppercase:',my_string.upper())
+print('String without a space:',my_string.replace(' ',''))
+print('First symbol of string: ',my_string[0],'\nLast symbol of string: ',my_string[-1])
